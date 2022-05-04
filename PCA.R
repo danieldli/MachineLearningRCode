@@ -50,18 +50,3 @@ top_10_genes
 pca$rotation[top_10_genes, 1]
 pca$rotation[top_10_genes, ]
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
